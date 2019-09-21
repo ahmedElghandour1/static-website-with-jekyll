@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: static-website-with-jekyll
+excude: ['README.md']
